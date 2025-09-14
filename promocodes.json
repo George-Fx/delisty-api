@@ -38,9 +38,9 @@
     },
     {
       "id": 5,
-      "name": "KFC",
-      "code": "KFC25",
-      "discount": 25,
+      "name": "El Pollo Loco",
+      "code": "ELPOLO25",
+      "discount": 30,
       "expiresAt": "June 30, 2021",
       "isActive": false,
       "logo": "https://george-fx.github.io/yummer-data/promocodes/05.jpg"
