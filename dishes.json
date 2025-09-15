@@ -46,6 +46,121 @@
         "pickles",
         "mayonnaise"
       ]
+    },
+    {
+      "id": 3,
+      "name": "Gunkan with Salmon",
+      "price": 12.5,
+      "image": "https://george-fx.github.io/delisty-data/dishes/03-gunkan-with-salmon.jpg",
+      "description": "Juicy beef patty with melted cheese, fresh lettuce, tomato, onion, and pickles in a sesame seed bun.",
+      "category": "Burgers",
+      "cookTime": 25,
+      "weight": 400,
+      "rating": 4.2,
+      "isPopular": false,
+      "isRecommended": true,
+      "ingredients": [
+        "beef patty",
+        "cheese",
+        "burger bun",
+        "lettuce",
+        "tomato",
+        "onion",
+        "pickles",
+        "mayonnaise"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Classic Burger",
+      "price": 12.5,
+      "image": "https://george-fx.github.io/delisty-data/dishes/04-classic-borsht.jpg",
+      "description": "Juicy beef patty with melted cheese, fresh lettuce, tomato, onion, and pickles in a sesame seed bun.",
+      "category": "Burgers",
+      "cookTime": 25,
+      "weight": 400,
+      "rating": 4.2,
+      "isPopular": false,
+      "isRecommended": true,
+      "ingredients": [
+        "beef patty",
+        "cheese",
+        "burger bun",
+        "lettuce",
+        "tomato",
+        "onion",
+        "pickles",
+        "mayonnaise"
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Classic Burger",
+      "price": 12.5,
+      "image": "https://george-fx.github.io/delisty-data/dishes/05-сheesecake-with-caramel.jpg",
+      "description": "Juicy beef patty with melted cheese, fresh lettuce, tomato, onion, and pickles in a sesame seed bun.",
+      "category": "Burgers",
+      "cookTime": 25,
+      "weight": 400,
+      "rating": 4.2,
+      "isPopular": false,
+      "isRecommended": true,
+      "ingredients": [
+        "beef patty",
+        "cheese",
+        "burger bun",
+        "lettuce",
+        "tomato",
+        "onion",
+        "pickles",
+        "mayonnaise"
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Classic Burger",
+      "price": 12.5,
+      "image": "https://george-fx.github.io/delisty-data/dishes/06-cheesecake-with-chocolate.jpg",
+      "description": "Juicy beef patty with melted cheese, fresh lettuce, tomato, onion, and pickles in a sesame seed bun.",
+      "category": "Burgers",
+      "cookTime": 25,
+      "weight": 400,
+      "rating": 4.2,
+      "isPopular": false,
+      "isRecommended": true,
+      "ingredients": [
+        "beef patty",
+        "cheese",
+        "burger bun",
+        "lettuce",
+        "tomato",
+        "onion",
+        "pickles",
+        "mayonnaise"
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Classic Burger",
+      "price": 12.5,
+      "image": "https://george-fx.github.io/delisty-data/dishes/08-berry-cheesecake.jpg",
+      "description": "Juicy beef patty with melted cheese, fresh lettuce, tomato, onion, and pickles in a sesame seed bun.",
+      "category": "Burgers",
+      "cookTime": 25,
+      "weight": 400,
+      "rating": 4.2,
+      "isPopular": false,
+      "isRecommended": true,
+      "ingredients": [
+        "beef patty",
+        "cheese",
+        "burger bun",
+        "lettuce",
+        "tomato",
+        "onion",
+        "pickles",
+        "mayonnaise"
+      ]
     }
   ]
 }
