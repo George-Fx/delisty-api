@@ -2,7 +2,7 @@
   "dishes": [
     {
       "id": 1,
-      "name": "Tonkotsu Ramen",
+      "name": "Chicken Noodle Soup",
       "price": 7.5,
       "image": "https://george-fx.github.io/delisty-data/dishes/01-chicken-noodle-soup.jpg",
       "description": "Authentic Japanese ramen with rich pork bone broth, tender noodles, braised pork belly, soft-boiled egg, and fresh toppings.",
@@ -26,7 +26,7 @@
     },
     {
       "id": 2,
-      "name": "Classic Burger",
+      "name": "Beef Burger with Bacon",
       "price": 6.9,
       "image": "https://george-fx.github.io/delisty-data/dishes/02-beef-burgers-with-bacon.jpg",
       "description": "Juicy beef patty with melted cheese, fresh lettuce, tomato, onion, and pickles in a sesame seed bun.",
@@ -49,7 +49,7 @@
     },
     {
       "id": 3,
-      "name": "Gunkan with Salmon",
+      "name": "Gunkan Salmon",
       "price": 12.5,
       "image": "https://george-fx.github.io/delisty-data/dishes/03-gunkan-with-salmon.jpg",
       "description": "Gunkan sushi with fresh salmon and rice wrapped in nori seaweed.",
@@ -72,7 +72,7 @@
     },
     {
       "id": 4,
-      "name": "Classic Burger",
+      "name": "Classic Borscht",
       "price": 12.5,
       "image": "https://george-fx.github.io/delisty-data/dishes/04-classic-borsht.jpg",
       "description": "Classic Ukrainian borscht with beetroot, cabbage, potatoes, and sour cream.",
@@ -95,7 +95,7 @@
     },
     {
       "id": 5,
-      "name": "Classic Burger",
+      "name": "Cheesecake with Caramel",
       "price": 12.5,
       "image": "https://george-fx.github.io/delisty-data/dishes/05-сheesecake-with-caramel.jpg",
       "description": "Cheesecake with caramel topping.",
@@ -118,7 +118,7 @@
     },
     {
       "id": 6,
-      "name": "Classic Burger",
+      "name": "Cheesecake with Chocolate",
       "price": 12.5,
       "image": "https://george-fx.github.io/delisty-data/dishes/06-cheesecake-with-chocolate.jpg",
       "description": "Cheesecake with chocolate topping.",
@@ -141,7 +141,7 @@
     },
     {
       "id": 7,
-      "name": "Classic Burger",
+      "name": "Berry Cheesecake",
       "price": 12.5,
       "image": "https://george-fx.github.io/delisty-data/dishes/08-berry-cheesecake.jpg",
       "description": "Cheesecake with berry topping.",
