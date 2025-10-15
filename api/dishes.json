@@ -1,0 +1,481 @@
+{
+  "docs": [
+    {
+      "id": 9,
+      "name": "Berry Cheesecake",
+      "description": "Light and fruity cheesecake topped with a mix of fresh berries and a vibrant berry glaze for a burst of flavor.",
+      "price": 6,
+      "weight": 180,
+      "isPopular": true,
+      "category": {
+        "id": 4,
+        "name": "Desserts",
+        "updatedAt": "2025-10-13T17:22:12.593Z",
+        "createdAt": "2025-10-13T17:22:12.593Z"
+      },
+      "ingredients": [
+        {
+          "id": 8,
+          "name": "Butter",
+          "updatedAt": "2025-10-13T17:24:57.792Z",
+          "createdAt": "2025-10-13T17:24:57.792Z"
+        },
+        {
+          "id": 9,
+          "name": "Sugar",
+          "updatedAt": "2025-10-13T17:25:04.130Z",
+          "createdAt": "2025-10-13T17:25:04.130Z"
+        },
+        {
+          "id": 10,
+          "name": "Eggs",
+          "updatedAt": "2025-10-13T17:25:09.521Z",
+          "createdAt": "2025-10-13T17:25:09.521Z"
+        },
+        {
+          "id": 11,
+          "name": "Flour",
+          "updatedAt": "2025-10-13T17:25:16.962Z",
+          "createdAt": "2025-10-13T17:25:16.962Z"
+        },
+        {
+          "id": 12,
+          "name": "Milk",
+          "updatedAt": "2025-10-13T17:25:25.844Z",
+          "createdAt": "2025-10-13T17:25:25.844Z"
+        }
+      ],
+      "image": {
+        "id": 14,
+        "alt": "berry-cheesecake",
+        "updatedAt": "2025-10-13T17:48:52.081Z",
+        "createdAt": "2025-10-13T17:48:52.080Z",
+        "url": "/api/media/file/08-berry-cheesecake.jpg",
+        "thumbnailURL": null,
+        "filename": "08-berry-cheesecake.jpg",
+        "mimeType": "image/jpeg",
+        "filesize": 109215,
+        "width": 2048,
+        "height": 1988,
+        "focalX": 50,
+        "focalY": 50
+      },
+      "updatedAt": "2025-10-13T17:48:56.415Z",
+      "createdAt": "2025-10-13T17:48:56.415Z"
+    },
+    {
+      "id": 8,
+      "name": "Ice Cream with Caramel",
+      "description": "Refreshing homemade ice cream swirled with golden caramel sauce — creamy, sweet, and irresistibly smooth.",
+      "price": 4.5,
+      "weight": 150,
+      "isPopular": true,
+      "category": {
+        "id": 4,
+        "name": "Desserts",
+        "updatedAt": "2025-10-13T17:22:12.593Z",
+        "createdAt": "2025-10-13T17:22:12.593Z"
+      },
+      "ingredients": [
+        {
+          "id": 12,
+          "name": "Milk",
+          "updatedAt": "2025-10-13T17:25:25.844Z",
+          "createdAt": "2025-10-13T17:25:25.844Z"
+        },
+        {
+          "id": 9,
+          "name": "Sugar",
+          "updatedAt": "2025-10-13T17:25:04.130Z",
+          "createdAt": "2025-10-13T17:25:04.130Z"
+        },
+        {
+          "id": 10,
+          "name": "Eggs",
+          "updatedAt": "2025-10-13T17:25:09.521Z",
+          "createdAt": "2025-10-13T17:25:09.521Z"
+        },
+        {
+          "id": 8,
+          "name": "Butter",
+          "updatedAt": "2025-10-13T17:24:57.792Z",
+          "createdAt": "2025-10-13T17:24:57.792Z"
+        }
+      ],
+      "image": {
+        "id": 13,
+        "alt": "ice-cream-with-caramel",
+        "updatedAt": "2025-10-13T17:47:34.025Z",
+        "createdAt": "2025-10-13T17:47:34.024Z",
+        "url": "/api/media/file/07-ice-cream-with-caramel.jpg",
+        "thumbnailURL": null,
+        "filename": "07-ice-cream-with-caramel.jpg",
+        "mimeType": "image/jpeg",
+        "filesize": 109373,
+        "width": 2048,
+        "height": 1988,
+        "focalX": 50,
+        "focalY": 50
+      },
+      "updatedAt": "2025-10-13T17:47:38.678Z",
+      "createdAt": "2025-10-13T17:47:38.678Z"
+    },
+    {
+      "id": 7,
+      "name": "Cheesecake with Chocolate",
+      "description": "A luscious chocolate twist on the classic cheesecake, with a rich cocoa base and smooth, velvety texture.",
+      "price": 6.2,
+      "weight": 190,
+      "isPopular": true,
+      "category": {
+        "id": 4,
+        "name": "Desserts",
+        "updatedAt": "2025-10-13T17:22:12.593Z",
+        "createdAt": "2025-10-13T17:22:12.593Z"
+      },
+      "ingredients": [
+        {
+          "id": 8,
+          "name": "Butter",
+          "updatedAt": "2025-10-13T17:24:57.792Z",
+          "createdAt": "2025-10-13T17:24:57.792Z"
+        },
+        {
+          "id": 9,
+          "name": "Sugar",
+          "updatedAt": "2025-10-13T17:25:04.130Z",
+          "createdAt": "2025-10-13T17:25:04.130Z"
+        },
+        {
+          "id": 10,
+          "name": "Eggs",
+          "updatedAt": "2025-10-13T17:25:09.521Z",
+          "createdAt": "2025-10-13T17:25:09.521Z"
+        },
+        {
+          "id": 11,
+          "name": "Flour",
+          "updatedAt": "2025-10-13T17:25:16.962Z",
+          "createdAt": "2025-10-13T17:25:16.962Z"
+        },
+        {
+          "id": 12,
+          "name": "Milk",
+          "updatedAt": "2025-10-13T17:25:25.844Z",
+          "createdAt": "2025-10-13T17:25:25.844Z"
+        }
+      ],
+      "image": {
+        "id": 12,
+        "alt": "cheesecake-with-chocolate",
+        "updatedAt": "2025-10-13T17:46:10.764Z",
+        "createdAt": "2025-10-13T17:46:10.763Z",
+        "url": "/api/media/file/06-cheesecake-with-chocolate.jpg",
+        "thumbnailURL": null,
+        "filename": "06-cheesecake-with-chocolate.jpg",
+        "mimeType": "image/jpeg",
+        "filesize": 72406,
+        "width": 1024,
+        "height": 1158,
+        "focalX": 50,
+        "focalY": 50
+      },
+      "updatedAt": "2025-10-13T17:46:15.641Z",
+      "createdAt": "2025-10-13T17:46:15.641Z"
+    },
+    {
+      "id": 6,
+      "name": "Cheesecake with Caramel",
+      "description": "Creamy, smooth cheesecake drizzled with silky caramel sauce for the perfect balance of sweet and rich.",
+      "price": 5.9,
+      "weight": 180,
+      "isPopular": true,
+      "category": {
+        "id": 4,
+        "name": "Desserts",
+        "updatedAt": "2025-10-13T17:22:12.593Z",
+        "createdAt": "2025-10-13T17:22:12.593Z"
+      },
+      "ingredients": [
+        {
+          "id": 8,
+          "name": "Butter",
+          "updatedAt": "2025-10-13T17:24:57.792Z",
+          "createdAt": "2025-10-13T17:24:57.792Z"
+        },
+        {
+          "id": 9,
+          "name": "Sugar",
+          "updatedAt": "2025-10-13T17:25:04.130Z",
+          "createdAt": "2025-10-13T17:25:04.130Z"
+        },
+        {
+          "id": 10,
+          "name": "Eggs",
+          "updatedAt": "2025-10-13T17:25:09.521Z",
+          "createdAt": "2025-10-13T17:25:09.521Z"
+        },
+        {
+          "id": 11,
+          "name": "Flour",
+          "updatedAt": "2025-10-13T17:25:16.962Z",
+          "createdAt": "2025-10-13T17:25:16.962Z"
+        },
+        {
+          "id": 12,
+          "name": "Milk",
+          "updatedAt": "2025-10-13T17:25:25.844Z",
+          "createdAt": "2025-10-13T17:25:25.844Z"
+        }
+      ],
+      "image": {
+        "id": 11,
+        "alt": "сheesecake-with-caramel",
+        "updatedAt": "2025-10-13T17:44:41.483Z",
+        "createdAt": "2025-10-13T17:44:41.483Z",
+        "url": "/api/media/file/05-%D1%81heesecake-with-caramel.jpg",
+        "thumbnailURL": null,
+        "filename": "05-сheesecake-with-caramel.jpg",
+        "mimeType": "image/jpeg",
+        "filesize": 64668,
+        "width": 1024,
+        "height": 1158,
+        "focalX": 50,
+        "focalY": 50
+      },
+      "updatedAt": "2025-10-13T17:44:49.980Z",
+      "createdAt": "2025-10-13T17:44:49.980Z"
+    },
+    {
+      "id": 5,
+      "name": "Gunkan with Salmon",
+      "description": "Delicate sushi rice wrapped in nori and topped with fresh salmon for a rich, melt-in-your-mouth flavor.",
+      "price": 4.8,
+      "weight": 80,
+      "isPopular": true,
+      "category": {
+        "id": 5,
+        "name": "Main Dishes",
+        "updatedAt": "2025-10-13T17:23:02.455Z",
+        "createdAt": "2025-10-13T17:23:02.455Z"
+      },
+      "ingredients": [
+        {
+          "id": 4,
+          "name": "Salt",
+          "updatedAt": "2025-10-13T17:24:30.233Z",
+          "createdAt": "2025-10-13T17:24:30.233Z"
+        }
+      ],
+      "image": {
+        "id": 10,
+        "alt": "gunkan-with-salmon",
+        "updatedAt": "2025-10-13T17:43:10.110Z",
+        "createdAt": "2025-10-13T17:43:10.110Z",
+        "url": "/api/media/file/03-gunkan-with-salmon.jpg",
+        "thumbnailURL": null,
+        "filename": "03-gunkan-with-salmon.jpg",
+        "mimeType": "image/jpeg",
+        "filesize": 83566,
+        "width": 1024,
+        "height": 1158,
+        "focalX": 50,
+        "focalY": 50
+      },
+      "updatedAt": "2025-10-13T17:43:15.394Z",
+      "createdAt": "2025-10-13T17:43:15.394Z"
+    },
+    {
+      "id": 4,
+      "name": "Main Dishes",
+      "description": "Juicy grilled beef patties layered with crispy bacon, melted cheddar, and fresh vegetables on a toasted bun.",
+      "price": 9.5,
+      "weight": 420,
+      "isPopular": true,
+      "category": {
+        "id": 5,
+        "name": "Main Dishes",
+        "updatedAt": "2025-10-13T17:23:02.455Z",
+        "createdAt": "2025-10-13T17:23:02.455Z"
+      },
+      "ingredients": [
+        {
+          "id": 4,
+          "name": "Salt",
+          "updatedAt": "2025-10-13T17:24:30.233Z",
+          "createdAt": "2025-10-13T17:24:30.233Z"
+        },
+        {
+          "id": 5,
+          "name": "Black pepper",
+          "updatedAt": "2025-10-13T17:24:39.146Z",
+          "createdAt": "2025-10-13T17:24:39.146Z"
+        },
+        {
+          "id": 7,
+          "name": "Onion",
+          "updatedAt": "2025-10-13T17:24:51.907Z",
+          "createdAt": "2025-10-13T17:24:51.907Z"
+        },
+        {
+          "id": 8,
+          "name": "Butter",
+          "updatedAt": "2025-10-13T17:24:57.792Z",
+          "createdAt": "2025-10-13T17:24:57.792Z"
+        }
+      ],
+      "image": {
+        "id": 9,
+        "alt": "beef-burgers-with-bacon",
+        "updatedAt": "2025-10-13T17:41:33.208Z",
+        "createdAt": "2025-10-13T17:41:33.207Z",
+        "url": "/api/media/file/02-beef-burgers-with-bacon.jpg",
+        "thumbnailURL": null,
+        "filename": "02-beef-burgers-with-bacon.jpg",
+        "mimeType": "image/jpeg",
+        "filesize": 124278,
+        "width": 1024,
+        "height": 1158,
+        "focalX": 50,
+        "focalY": 50
+      },
+      "updatedAt": "2025-10-13T17:41:42.109Z",
+      "createdAt": "2025-10-13T17:41:42.109Z"
+    },
+    {
+      "id": 3,
+      "name": "Classic Borscht",
+      "description": "A traditional beet soup with hearty vegetables and a deep, earthy flavor, served with sour cream and dill.",
+      "price": 5.4,
+      "weight": 400,
+      "isPopular": true,
+      "category": {
+        "id": 3,
+        "name": "Soups",
+        "updatedAt": "2025-10-13T17:21:46.814Z",
+        "createdAt": "2025-10-13T17:21:46.813Z"
+      },
+      "ingredients": [
+        {
+          "id": 4,
+          "name": "Salt",
+          "updatedAt": "2025-10-13T17:24:30.233Z",
+          "createdAt": "2025-10-13T17:24:30.233Z"
+        },
+        {
+          "id": 5,
+          "name": "Black pepper",
+          "updatedAt": "2025-10-13T17:24:39.146Z",
+          "createdAt": "2025-10-13T17:24:39.146Z"
+        },
+        {
+          "id": 6,
+          "name": "Garlic",
+          "updatedAt": "2025-10-13T17:24:46.131Z",
+          "createdAt": "2025-10-13T17:24:46.131Z"
+        },
+        {
+          "id": 7,
+          "name": "Onion",
+          "updatedAt": "2025-10-13T17:24:51.907Z",
+          "createdAt": "2025-10-13T17:24:51.907Z"
+        },
+        {
+          "id": 13,
+          "name": "Olive oil",
+          "updatedAt": "2025-10-13T17:25:34.586Z",
+          "createdAt": "2025-10-13T17:25:34.586Z"
+        }
+      ],
+      "image": {
+        "id": 8,
+        "alt": "classic-borsht",
+        "updatedAt": "2025-10-13T17:39:25.002Z",
+        "createdAt": "2025-10-13T17:39:25.001Z",
+        "url": "/api/media/file/04-classic-borsht.jpg",
+        "thumbnailURL": null,
+        "filename": "04-classic-borsht.jpg",
+        "mimeType": "image/jpeg",
+        "filesize": 107388,
+        "width": 1024,
+        "height": 1158,
+        "focalX": 50,
+        "focalY": 50
+      },
+      "updatedAt": "2025-10-13T17:42:07.609Z",
+      "createdAt": "2025-10-13T17:39:41.284Z"
+    },
+    {
+      "id": 2,
+      "name": "Chicken Noodle Soup",
+      "description": "A comforting classic made with tender chicken, fresh vegetables, and soft egg noodles in a flavorful golden broth.",
+      "price": 6.9,
+      "weight": 350,
+      "isPopular": true,
+      "category": {
+        "id": 3,
+        "name": "Soups",
+        "updatedAt": "2025-10-13T17:21:46.814Z",
+        "createdAt": "2025-10-13T17:21:46.813Z"
+      },
+      "ingredients": [
+        {
+          "id": 4,
+          "name": "Salt",
+          "updatedAt": "2025-10-13T17:24:30.233Z",
+          "createdAt": "2025-10-13T17:24:30.233Z"
+        },
+        {
+          "id": 5,
+          "name": "Black pepper",
+          "updatedAt": "2025-10-13T17:24:39.146Z",
+          "createdAt": "2025-10-13T17:24:39.146Z"
+        },
+        {
+          "id": 6,
+          "name": "Garlic",
+          "updatedAt": "2025-10-13T17:24:46.131Z",
+          "createdAt": "2025-10-13T17:24:46.131Z"
+        },
+        {
+          "id": 7,
+          "name": "Onion",
+          "updatedAt": "2025-10-13T17:24:51.907Z",
+          "createdAt": "2025-10-13T17:24:51.907Z"
+        },
+        {
+          "id": 13,
+          "name": "Olive oil",
+          "updatedAt": "2025-10-13T17:25:34.586Z",
+          "createdAt": "2025-10-13T17:25:34.586Z"
+        }
+      ],
+      "image": {
+        "id": 7,
+        "alt": "chicken-noodle-soup",
+        "updatedAt": "2025-10-13T17:35:09.655Z",
+        "createdAt": "2025-10-13T17:35:09.655Z",
+        "url": "/api/media/file/01-chicken-noodle-soup-1.jpg",
+        "thumbnailURL": null,
+        "filename": "01-chicken-noodle-soup-1.jpg",
+        "mimeType": "image/jpeg",
+        "filesize": 97519,
+        "width": 1024,
+        "height": 1158,
+        "focalX": 50,
+        "focalY": 50
+      },
+      "updatedAt": "2025-10-13T17:37:42.671Z",
+      "createdAt": "2025-10-13T17:37:42.669Z"
+    }
+  ],
+  "hasNextPage": false,
+  "hasPrevPage": false,
+  "limit": 10,
+  "nextPage": null,
+  "page": 1,
+  "pagingCounter": 1,
+  "prevPage": null,
+  "totalDocs": 8,
+  "totalPages": 1
+}
