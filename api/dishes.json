@@ -9,59 +9,33 @@
       "isPopular": true,
       "category": {
         "id": 4,
-        "name": "Desserts",
-        "updatedAt": "2025-10-13T17:22:12.593Z",
-        "createdAt": "2025-10-13T17:22:12.593Z"
+        "name": "Desserts"
       },
       "ingredients": [
         {
           "id": 8,
-          "name": "Butter",
-          "updatedAt": "2025-10-13T17:24:57.792Z",
-          "createdAt": "2025-10-13T17:24:57.792Z"
+          "name": "Butter"
         },
         {
           "id": 9,
-          "name": "Sugar",
-          "updatedAt": "2025-10-13T17:25:04.130Z",
-          "createdAt": "2025-10-13T17:25:04.130Z"
+          "name": "Sugar"
         },
         {
           "id": 10,
-          "name": "Eggs",
-          "updatedAt": "2025-10-13T17:25:09.521Z",
-          "createdAt": "2025-10-13T17:25:09.521Z"
+          "name": "Eggs"
         },
         {
           "id": 11,
-          "name": "Flour",
-          "updatedAt": "2025-10-13T17:25:16.962Z",
-          "createdAt": "2025-10-13T17:25:16.962Z"
+          "name": "Flour"
         },
         {
           "id": 12,
-          "name": "Milk",
-          "updatedAt": "2025-10-13T17:25:25.844Z",
-          "createdAt": "2025-10-13T17:25:25.844Z"
+          "name": "Milk"
         }
       ],
       "image": {
-        "id": 14,
-        "alt": "berry-cheesecake",
-        "updatedAt": "2025-10-13T17:48:52.081Z",
-        "createdAt": "2025-10-13T17:48:52.080Z",
-        "url": "https://george-fx.github.io/delisty-data/dishes/01-chicken-noodle-soup.jpg",
-        "thumbnailURL": null,
-        "filename": "08-berry-cheesecake.jpg",
-        "mimeType": "image/jpeg",
-        "filesize": 109215,
-        "width": 2048,
-        "height": 1988,
-        "focalX": 50,
-        "focalY": 50
-      },
-      "updatedAt": "2025-10-13T17:48:56.415Z",
-      "createdAt": "2025-10-13T17:48:56.415Z"
+        "url": "https://george-fx.github.io/delisty-data/dishes/08-berry-cheesecake.jpg"
+      }
     },
     {
       "id": 8,
@@ -72,53 +46,29 @@
       "isPopular": true,
       "category": {
         "id": 4,
-        "name": "Desserts",
-        "updatedAt": "2025-10-13T17:22:12.593Z",
-        "createdAt": "2025-10-13T17:22:12.593Z"
+        "name": "Desserts"
       },
       "ingredients": [
         {
           "id": 12,
-          "name": "Milk",
-          "updatedAt": "2025-10-13T17:25:25.844Z",
-          "createdAt": "2025-10-13T17:25:25.844Z"
+          "name": "Milk"
         },
         {
           "id": 9,
-          "name": "Sugar",
-          "updatedAt": "2025-10-13T17:25:04.130Z",
-          "createdAt": "2025-10-13T17:25:04.130Z"
+          "name": "Sugar"
         },
         {
           "id": 10,
-          "name": "Eggs",
-          "updatedAt": "2025-10-13T17:25:09.521Z",
-          "createdAt": "2025-10-13T17:25:09.521Z"
+          "name": "Eggs"
         },
         {
           "id": 8,
-          "name": "Butter",
-          "updatedAt": "2025-10-13T17:24:57.792Z",
-          "createdAt": "2025-10-13T17:24:57.792Z"
+          "name": "Butter"
         }
       ],
       "image": {
-        "id": 13,
-        "alt": "ice-cream-with-caramel",
-        "updatedAt": "2025-10-13T17:47:34.025Z",
-        "createdAt": "2025-10-13T17:47:34.024Z",
-        "url": "https://george-fx.github.io/delisty-data/dishes/02-beef-burgers-with-bacon.jpg",
-        "thumbnailURL": null,
-        "filename": "07-ice-cream-with-caramel.jpg",
-        "mimeType": "image/jpeg",
-        "filesize": 109373,
-        "width": 2048,
-        "height": 1988,
-        "focalX": 50,
-        "focalY": 50
-      },
-      "updatedAt": "2025-10-13T17:47:38.678Z",
-      "createdAt": "2025-10-13T17:47:38.678Z"
+        "url": "https://george-fx.github.io/delisty-data/dishes/07-ice-cream-with-caramel.jpg"
+      }
     },
     {
       "id": 7,
@@ -129,59 +79,33 @@
       "isPopular": true,
       "category": {
         "id": 4,
-        "name": "Desserts",
-        "updatedAt": "2025-10-13T17:22:12.593Z",
-        "createdAt": "2025-10-13T17:22:12.593Z"
+        "name": "Desserts"
       },
       "ingredients": [
         {
           "id": 8,
-          "name": "Butter",
-          "updatedAt": "2025-10-13T17:24:57.792Z",
-          "createdAt": "2025-10-13T17:24:57.792Z"
+          "name": "Butter"
         },
         {
           "id": 9,
-          "name": "Sugar",
-          "updatedAt": "2025-10-13T17:25:04.130Z",
-          "createdAt": "2025-10-13T17:25:04.130Z"
+          "name": "Sugar"
         },
         {
           "id": 10,
-          "name": "Eggs",
-          "updatedAt": "2025-10-13T17:25:09.521Z",
-          "createdAt": "2025-10-13T17:25:09.521Z"
+          "name": "Eggs"
         },
         {
           "id": 11,
-          "name": "Flour",
-          "updatedAt": "2025-10-13T17:25:16.962Z",
-          "createdAt": "2025-10-13T17:25:16.962Z"
+          "name": "Flour"
         },
         {
           "id": 12,
-          "name": "Milk",
-          "updatedAt": "2025-10-13T17:25:25.844Z",
-          "createdAt": "2025-10-13T17:25:25.844Z"
+          "name": "Milk"
         }
       ],
       "image": {
-        "id": 12,
-        "alt": "cheesecake-with-chocolate",
-        "updatedAt": "2025-10-13T17:46:10.764Z",
-        "createdAt": "2025-10-13T17:46:10.763Z",
-        "url": "/api/media/file/06-cheesecake-with-chocolate.jpg",
-        "thumbnailURL": null,
-        "filename": "06-cheesecake-with-chocolate.jpg",
-        "mimeType": "image/jpeg",
-        "filesize": 72406,
-        "width": 1024,
-        "height": 1158,
-        "focalX": 50,
-        "focalY": 50
-      },
-      "updatedAt": "2025-10-13T17:46:15.641Z",
-      "createdAt": "2025-10-13T17:46:15.641Z"
+        "url": "https://george-fx.github.io/delisty-data/dishes/06-cheesecake-with-chocolate.jpg"
+      }
     },
     {
       "id": 6,
@@ -192,59 +116,33 @@
       "isPopular": true,
       "category": {
         "id": 4,
-        "name": "Desserts",
-        "updatedAt": "2025-10-13T17:22:12.593Z",
-        "createdAt": "2025-10-13T17:22:12.593Z"
+        "name": "Desserts"
       },
       "ingredients": [
         {
           "id": 8,
-          "name": "Butter",
-          "updatedAt": "2025-10-13T17:24:57.792Z",
-          "createdAt": "2025-10-13T17:24:57.792Z"
+          "name": "Butter"
         },
         {
           "id": 9,
-          "name": "Sugar",
-          "updatedAt": "2025-10-13T17:25:04.130Z",
-          "createdAt": "2025-10-13T17:25:04.130Z"
+          "name": "Sugar"
         },
         {
           "id": 10,
-          "name": "Eggs",
-          "updatedAt": "2025-10-13T17:25:09.521Z",
-          "createdAt": "2025-10-13T17:25:09.521Z"
+          "name": "Eggs"
         },
         {
           "id": 11,
-          "name": "Flour",
-          "updatedAt": "2025-10-13T17:25:16.962Z",
-          "createdAt": "2025-10-13T17:25:16.962Z"
+          "name": "Flour"
         },
         {
           "id": 12,
-          "name": "Milk",
-          "updatedAt": "2025-10-13T17:25:25.844Z",
-          "createdAt": "2025-10-13T17:25:25.844Z"
+          "name": "Milk"
         }
       ],
       "image": {
-        "id": 11,
-        "alt": "сheesecake-with-caramel",
-        "updatedAt": "2025-10-13T17:44:41.483Z",
-        "createdAt": "2025-10-13T17:44:41.483Z",
-        "url": "/api/media/file/05-%D1%81heesecake-with-caramel.jpg",
-        "thumbnailURL": null,
-        "filename": "05-сheesecake-with-caramel.jpg",
-        "mimeType": "image/jpeg",
-        "filesize": 64668,
-        "width": 1024,
-        "height": 1158,
-        "focalX": 50,
-        "focalY": 50
-      },
-      "updatedAt": "2025-10-13T17:44:49.980Z",
-      "createdAt": "2025-10-13T17:44:49.980Z"
+        "url": "https://george-fx.github.io/delisty-data/dishes/05-сheesecake-with-caramel.jpg"
+      }
     },
     {
       "id": 5,
@@ -255,92 +153,50 @@
       "isPopular": true,
       "category": {
         "id": 5,
-        "name": "Main Dishes",
-        "updatedAt": "2025-10-13T17:23:02.455Z",
-        "createdAt": "2025-10-13T17:23:02.455Z"
+        "name": "Main Dishes"
       },
       "ingredients": [
         {
           "id": 4,
-          "name": "Salt",
-          "updatedAt": "2025-10-13T17:24:30.233Z",
-          "createdAt": "2025-10-13T17:24:30.233Z"
+          "name": "Salt"
         }
       ],
       "image": {
-        "id": 10,
-        "alt": "gunkan-with-salmon",
-        "updatedAt": "2025-10-13T17:43:10.110Z",
-        "createdAt": "2025-10-13T17:43:10.110Z",
-        "url": "/api/media/file/03-gunkan-with-salmon.jpg",
-        "thumbnailURL": null,
-        "filename": "03-gunkan-with-salmon.jpg",
-        "mimeType": "image/jpeg",
-        "filesize": 83566,
-        "width": 1024,
-        "height": 1158,
-        "focalX": 50,
-        "focalY": 50
-      },
-      "updatedAt": "2025-10-13T17:43:15.394Z",
-      "createdAt": "2025-10-13T17:43:15.394Z"
+        "url": "https://george-fx.github.io/delisty-data/dishes/03-gunkan-with-salmon.jpg"
+      }
     },
     {
       "id": 4,
-      "name": "Main Dishes",
+      "name": "Beef Burgers with Bacon",
       "description": "Juicy grilled beef patties layered with crispy bacon, melted cheddar, and fresh vegetables on a toasted bun.",
       "price": 9.5,
       "weight": 420,
       "isPopular": true,
       "category": {
         "id": 5,
-        "name": "Main Dishes",
-        "updatedAt": "2025-10-13T17:23:02.455Z",
-        "createdAt": "2025-10-13T17:23:02.455Z"
+        "name": "Main Dishes"
       },
       "ingredients": [
         {
           "id": 4,
-          "name": "Salt",
-          "updatedAt": "2025-10-13T17:24:30.233Z",
-          "createdAt": "2025-10-13T17:24:30.233Z"
+          "name": "Salt"
         },
         {
           "id": 5,
-          "name": "Black pepper",
-          "updatedAt": "2025-10-13T17:24:39.146Z",
-          "createdAt": "2025-10-13T17:24:39.146Z"
+          "name": "Black pepper"
         },
         {
           "id": 7,
-          "name": "Onion",
-          "updatedAt": "2025-10-13T17:24:51.907Z",
-          "createdAt": "2025-10-13T17:24:51.907Z"
+          "name": "Onion"
         },
         {
           "id": 8,
-          "name": "Butter",
-          "updatedAt": "2025-10-13T17:24:57.792Z",
-          "createdAt": "2025-10-13T17:24:57.792Z"
+          "name": "Butter"
         }
       ],
       "image": {
-        "id": 9,
-        "alt": "beef-burgers-with-bacon",
-        "updatedAt": "2025-10-13T17:41:33.208Z",
-        "createdAt": "2025-10-13T17:41:33.207Z",
-        "url": "/api/media/file/02-beef-burgers-with-bacon.jpg",
-        "thumbnailURL": null,
-        "filename": "02-beef-burgers-with-bacon.jpg",
-        "mimeType": "image/jpeg",
-        "filesize": 124278,
-        "width": 1024,
-        "height": 1158,
-        "focalX": 50,
-        "focalY": 50
-      },
-      "updatedAt": "2025-10-13T17:41:42.109Z",
-      "createdAt": "2025-10-13T17:41:42.109Z"
+        "url": "https://george-fx.github.io/delisty-data/dishes/02-beef-burgers-with-bacon.jpg"
+      }
     },
     {
       "id": 3,
@@ -351,59 +207,33 @@
       "isPopular": true,
       "category": {
         "id": 3,
-        "name": "Soups",
-        "updatedAt": "2025-10-13T17:21:46.814Z",
-        "createdAt": "2025-10-13T17:21:46.813Z"
+        "name": "Soups"
       },
       "ingredients": [
         {
           "id": 4,
-          "name": "Salt",
-          "updatedAt": "2025-10-13T17:24:30.233Z",
-          "createdAt": "2025-10-13T17:24:30.233Z"
+          "name": "Salt"
         },
         {
           "id": 5,
-          "name": "Black pepper",
-          "updatedAt": "2025-10-13T17:24:39.146Z",
-          "createdAt": "2025-10-13T17:24:39.146Z"
+          "name": "Black pepper"
         },
         {
           "id": 6,
-          "name": "Garlic",
-          "updatedAt": "2025-10-13T17:24:46.131Z",
-          "createdAt": "2025-10-13T17:24:46.131Z"
+          "name": "Garlic"
         },
         {
           "id": 7,
-          "name": "Onion",
-          "updatedAt": "2025-10-13T17:24:51.907Z",
-          "createdAt": "2025-10-13T17:24:51.907Z"
+          "name": "Onion"
         },
         {
           "id": 13,
-          "name": "Olive oil",
-          "updatedAt": "2025-10-13T17:25:34.586Z",
-          "createdAt": "2025-10-13T17:25:34.586Z"
+          "name": "Olive oil"
         }
       ],
       "image": {
-        "id": 8,
-        "alt": "classic-borsht",
-        "updatedAt": "2025-10-13T17:39:25.002Z",
-        "createdAt": "2025-10-13T17:39:25.001Z",
-        "url": "/api/media/file/04-classic-borsht.jpg",
-        "thumbnailURL": null,
-        "filename": "04-classic-borsht.jpg",
-        "mimeType": "image/jpeg",
-        "filesize": 107388,
-        "width": 1024,
-        "height": 1158,
-        "focalX": 50,
-        "focalY": 50
-      },
-      "updatedAt": "2025-10-13T17:42:07.609Z",
-      "createdAt": "2025-10-13T17:39:41.284Z"
+        "url": "https://george-fx.github.io/delisty-data/dishes/04-classic-borsht.jpg"
+      }
     },
     {
       "id": 2,
@@ -414,68 +244,33 @@
       "isPopular": true,
       "category": {
         "id": 3,
-        "name": "Soups",
-        "updatedAt": "2025-10-13T17:21:46.814Z",
-        "createdAt": "2025-10-13T17:21:46.813Z"
+        "name": "Soups"
       },
       "ingredients": [
         {
           "id": 4,
-          "name": "Salt",
-          "updatedAt": "2025-10-13T17:24:30.233Z",
-          "createdAt": "2025-10-13T17:24:30.233Z"
+          "name": "Salt"
         },
         {
           "id": 5,
-          "name": "Black pepper",
-          "updatedAt": "2025-10-13T17:24:39.146Z",
-          "createdAt": "2025-10-13T17:24:39.146Z"
+          "name": "Black pepper"
         },
         {
           "id": 6,
-          "name": "Garlic",
-          "updatedAt": "2025-10-13T17:24:46.131Z",
-          "createdAt": "2025-10-13T17:24:46.131Z"
+          "name": "Garlic"
         },
         {
           "id": 7,
-          "name": "Onion",
-          "updatedAt": "2025-10-13T17:24:51.907Z",
-          "createdAt": "2025-10-13T17:24:51.907Z"
+          "name": "Onion"
         },
         {
           "id": 13,
-          "name": "Olive oil",
-          "updatedAt": "2025-10-13T17:25:34.586Z",
-          "createdAt": "2025-10-13T17:25:34.586Z"
+          "name": "Olive oil"
         }
       ],
       "image": {
-        "id": 7,
-        "alt": "chicken-noodle-soup",
-        "updatedAt": "2025-10-13T17:35:09.655Z",
-        "createdAt": "2025-10-13T17:35:09.655Z",
-        "url": "/api/media/file/01-chicken-noodle-soup-1.jpg",
-        "thumbnailURL": null,
-        "filename": "01-chicken-noodle-soup-1.jpg",
-        "mimeType": "image/jpeg",
-        "filesize": 97519,
-        "width": 1024,
-        "height": 1158,
-        "focalX": 50,
-        "focalY": 50
-      },
-      "updatedAt": "2025-10-13T17:37:42.671Z",
-      "createdAt": "2025-10-13T17:37:42.669Z"
+        "url": "https://george-fx.github.io/delisty-data/dishes/01-chicken-noodle-soup.jpg"
+      }
     }
-  ],
-  "hasNextPage": false,
-  "hasPrevPage": false,
-  "limit": 10,
-  "nextPage": null,
-  "page": 1,
-  "pagingCounter": 1,
-  "prevPage": null,
-  "totalDocs": 8,
-  "totalPages": 1
+  ]
 }
